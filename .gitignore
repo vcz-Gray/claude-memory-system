@@ -1,0 +1,12 @@
+# Credentials and sensitive files
+.credentials.json
+settings.local.json
+
+# Project data
+projects/
+todos/
+shell-snapshots/
+statsig/
+
+# Temporary checkpoints (keep only the structure)
+claude-checkpoint-*.md
